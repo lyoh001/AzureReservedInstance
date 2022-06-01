@@ -25,7 +25,7 @@ Azure Machine learning workspace for EDA and model building.
 1. The end users can consume PowerBI report from any devices.
 
 ![Figure 1: Powerbi Dashboard](./.images/dashboard.png)
-(ref: https://github.com/lyoh001/AzureReservedInstance/blob/main/analysis/dashboard.pdf)
+(ref: https://github.com/lyoh001/AzureReservedInstance/blob/main/.images/dashboard.pdf)
 
 ## Used By
 
