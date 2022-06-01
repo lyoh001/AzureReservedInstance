@@ -1,4 +1,4 @@
-# VICGOV - Azure LMS
+# VICGOV - Azure Reserved Instance
 ## 1. Introduction
 ### 1.1	Overview
 
