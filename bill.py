@@ -72,7 +72,7 @@ async def main(years, guids):
 if __name__ == "__main__":
     asyncio.run(
         main(
-            years=range(2022, 2023),
+            years=range(2019, 2023),
             guids=[os.environ["SUBSCRIPTION_IDs"]],
         )
     )
