@@ -27,6 +27,9 @@ Azure Machine learning workspace for EDA and model building.
 ![Figure 1: Powerbi Dashboard](./.images/dashboard.png)
 (ref: https://github.com/lyoh001/AzureReservedInstance/blob/main/.images/dashboard.pdf)
 
+![Figure 2: Powerbi Pricing](./.images/pricing.png)
+(ref: https://github.com/lyoh001/AzureReservedInstance/blob/main/.images/pricing.pdf)
+
 ## Used By
 
 This project is used by the following teams:
